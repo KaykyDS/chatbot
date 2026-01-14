@@ -25,19 +25,18 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## 🔧 Instalação e Uso
 
 1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SeuUsuario/SeuRepositorio.git](https://github.com/SeuUsuario/SeuRepositorio.git)
+   git clone [https://github.com/KaykyDS/chatbot.git](https://github.com/KaykyDS/chatbot.git)
 
-2.  Entre na pasta do projeto:
-    cd chatbot
+2. Entre na pasta do projeto:
+   cd chatbot
 
 3. Instale as dependências:
-    npm install
-    Inicie o bot: 
+   npm install
+   Inicie o bot: 
 
 4. Inicie o bot:
-node chatbot.js
-Autenticação: Escaneie o QR Code que aparecerá no terminal com o seu WhatsApp (Aparelhos Conectados).
+   node chatbot.js
+   Autenticação: Escaneie o QR Code que aparecerá no terminal com o seu WhatsApp (Aparelhos Conectados).
 
 📂 Estrutura do Fluxo
 Início: O bot responde a saudações (Oi, Olá, Menu).
